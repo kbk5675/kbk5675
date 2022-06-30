@@ -3,10 +3,10 @@
 <!--
 **kbk5675/kbk5675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-https://img.shields.io/endpoint?url=<URL>&style<STYLE>
+<img src="https://img.shields.io/badge/#00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
 
 Here are some ideas to get you started:
-
+#00599C
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
